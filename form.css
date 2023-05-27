@@ -1,0 +1,287 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+body{
+    background-color: #070E22;
+    font-family: 'Literata', serif;
+    width: 100vw;
+    /* background-color: #070E22; */
+    background-color: #1b0a3a;
+    background-image: url(https://github.githubassets.com/images/modules/site/home/hero-glow.svg);
+    background-size: 170% auto;
+    background-repeat: no-repeat;
+    background-position: 50% 20%;
+}
+/* .contact-wrapper{
+    width: 500px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 #999;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position:absolute;
+}
+form{
+    margin: 35px;
+}
+.input-field{
+    width:400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+.textarea-field{
+    height: 150px;
+    padding-top:10px;
+    resize: none;
+    
+}
+.bttn{
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;   
+    background-color: #47c35a;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+} */
+
+/* NavBar */
+/* nav{
+    align-items: center;
+    justify-content: center;
+}
+.nav-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 65%;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 12px;
+}
+.nav-wrapper a{
+    text-decoration: none;
+    color: rgb(50, 42, 125)
+}
+.nav-wrapper a:hover{
+    color:#8193B2;
+    
+}
+
+nav a{
+    padding: 0 10px;
+} */
+
+/* Nav Bar */
+.nav-wrapper{
+    width: 65%;
+    max-width: 1200px;
+    padding: 12px 0;
+}
+.nav-wrapper a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+.nav-wrapper a:hover{
+    color:#8193B2;
+}
+.logo-wrapper{
+    display: inline-block;
+    margin: 0;
+}
+.navigation-wrapper{
+    padding: 20px 0;
+    margin: 0;
+    float: right;
+}
+
+.logo-wrapper img{
+    width: 100px; 
+}
+nav svg{
+    fill:#fff;
+    margin-right: 20px;
+}
+
+nav{
+    justify-content: center;
+    align-items: center;
+}
+
+nav a{
+    padding: 0 10px;
+}
+/* FORM */
+.mid-main-div h1{
+    margin-top: 75px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    color:rgba(240,86,98);
+}
+/* .mid-main-div p{
+    margin-top: 75px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 800;
+    color:rgba(240,86,98);
+} */
+.get-in-touch{
+    color:#fff;
+    text-align: center;
+    font-size: 19px;
+}
+.contact-wrapper{
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    height: 500px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 #999;
+    color: black;
+}
+.form-wrapper{
+    width: 60%;
+    height: 98%;
+    border-radius: 15px;
+    margin-left: 40px;
+    background-color: #fff;
+    display: flex;
+}
+.contactUs-wrapper{
+    width: 35%;
+    height: 98%;
+    background-color: #1b0a3a;
+    background-image: url(https://github.githubassets.com/images/modules/site/home/hero-glow.svg);
+    background-size: 170% auto;
+    background-repeat: no-repeat;
+    background-position: 50% 20%;
+    border-radius: 15px;
+    margin-left: 10px;
+    color: rgba(255, 255, 255, 0.656);
+    text-align: left;
+}
+.contactUs-wrapper p{
+    font-size: 15px;
+}
+.contactus-inner-wrapper{
+    margin: 30px;
+}
+.contactus-inner-wrapper h2{
+    color: #fff;
+    font-size: 29px;
+}
+.phone-wrapper{
+    color: #fff;
+    display: inline-block;
+    align-items: center;
+}
+.phone-wrapper i{
+    font-size: 25px;
+}
+.phone-wrapper p{
+    font-size: 13px;
+}
+.phone-inner-wrapper{
+    display: inline-block;
+    margin: 25px;
+    font-size: 23px;
+    letter-spacing: 0.5px;
+}
+.email-wrapper{
+    color: #fff;
+    display: inline-block;
+    
+}
+.email-wrapper i{
+    font-size: 25px;
+}
+.email-wrapper p{
+    font-size: 13px;
+}
+.email-inner-wrapper{
+    display: inline-block;
+    margin: 25px;
+    font-size: 23px;
+    letter-spacing: 0.5px;
+}
+
+label{
+    color:rgba(50, 42, 125);
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.email{
+    margin-left: 44%;
+}
+form{
+    margin: 35px 35px 35px 35px;
+}
+.input-field{
+    width: 100%;    
+    height: 20px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 1px solid rgba(119, 119, 119, 0.36);
+    outline: none;
+    color: black;
+}
+.input-field:focus{
+    border-bottom:2px solid rgba(50, 42, 125);
+}
+.input-field-NE{
+    width: 47.1%;    
+    height: 20px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 1px solid rgba(119, 119, 119, 0.36);
+    outline: none;
+    color: black;
+}
+.input-field-NE:focus{
+    border-bottom:2px solid rgba(50, 42, 125);
+}
+.input-field-email{
+    margin-left: 5%;
+    
+}
+.textarea-field{
+    height: 150px;
+    padding-top:10px;
+    resize: none;
+    border: none;
+    border-bottom: 1px solid rgba(119, 119, 119, 0.36)
+}
+.bttn{
+    width: 130px;
+    border-radius: 5px;
+    color: #fff;
+    margin-top: 0px;
+    padding: 10px;   
+    background-color: rgb(50, 42, 125);
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+}
+.bttn:hover{
+    background-color: rgb(28, 22, 80);
+}
+.bttn i{
+    font-size: 18px;
+    padding-left: 5px ;
+}
+.bttn-div{
+    float: right;
+}
