@@ -1,6 +1,5 @@
 # Babel
-
-*Three.js
-*Javascript
-*Css
-*HTML
+* Three.js
+* Javascript
+* CSS
+* HTML
