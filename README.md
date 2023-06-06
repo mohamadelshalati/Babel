@@ -3,5 +3,4 @@
 * Javascript
 * CSS
 * HTML
-
-https://mohamadelshalati.github.io/Babel/
+Check it out at: https://mohamadelshalati.github.io/Babel/home
