@@ -16,7 +16,6 @@ https://mohamadelshalati.github.io/Babel/home
 
 ![home page screenshots](./img/homepage.png)
 
-
 ![contact me](./img/contactme.png)
 
 
