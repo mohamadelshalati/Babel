@@ -164,8 +164,6 @@
         width: 200%;
         height: 200%;
     }
-
-    /* STATISTICS */
     .stats-wrapper {
         max-width: 1400px;
         padding: 0 80px;
@@ -204,16 +202,6 @@
         opacity: 0.5;
     }
 
-    /* ENTERPRISE */
-    /* .enterprise-section{
-    height: 500px;
-    background-color: #fff;
-    margin-top: -5px;
-} */
-    /* Slides */
-    /* .slides-section{
-    
-}*/
     .testimonials-section {
         height: auto;
     }
@@ -532,8 +520,10 @@
         margin-bottom: 10px;
     }
     .globe {
-        width: 50%;
-        padding: 0%;
+        display: none;
+        visibility: hidden;
+/*         width: 50%;
+        padding: 0%; */
     }
     .content h1 {
         font-size: 37px;
