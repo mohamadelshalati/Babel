@@ -6,6 +6,7 @@ This is a website that offers translations services.
 * Three.js
 * Javascript
 * CSS
+* Bootstrap
 * HTML
 
 
