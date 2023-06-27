@@ -1,5 +1,5 @@
 # Description
-This is a website that offers translations services. 
+Static website to get in touch with a translation service. 
 
 
 # Babel Tools and technologies
