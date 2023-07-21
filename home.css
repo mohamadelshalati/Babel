@@ -215,6 +215,7 @@
     }
 
     .testimonials {
+        max-width: 65%;
         text-align: center;
         margin-top: 100px;
         min-height: 300px;
@@ -441,6 +442,7 @@
         float: right;
     }
     .footer-contact-us-btn {
+        
         border: none;
         background-color: #33B558;
         border-radius: 5px;
@@ -712,16 +714,20 @@
         justify-content: center;
         display: flex;
         flex-direction: row;
-        width: 600px;
+        max-width: 300px;
     }
     .footer-contact-us-btn {
         border: none;
+
         background-color: #33B558;
         border-radius: 5px;
         min-height: 40px;
         width: 300px;
         font-size: 17px;
         margin-bottom: 20px;
+    }
+    .footer-earth {
+        display: none;
     }
     .footer-contact-us-btn:hover {
         background-color: #0a6b25;
