@@ -754,3 +754,9 @@
     }
 
 }
+
+@media only screen and (max-width: 500px){
+    .header-earth{
+        font-size: 12vw;   
+    }
+}
