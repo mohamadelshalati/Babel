@@ -39,6 +39,9 @@
     .nav-wrapper a:hover {
         color: #8193B2;
     }
+    .header-earth{
+        font-size: 100px;
+    }
 
     .logo-wrapper {
         display: inline-block;
@@ -477,9 +480,15 @@
         background-repeat: no-repeat;
         background-position: 50% 20%;
     }
+    .header-earth{
+        font-size: 17vw;
+        padding: 15%;
+    }
     .nav-wrapper {
         width: 100%;
         max-width: 1000px;
+        height: 25vw;
+        
     }
     .nav-wrapper a {
         text-decoration: none;
@@ -497,7 +506,7 @@
     }
     .navigation-wrapper {
         display: inline-block;
-        padding: 45px 20px 0 0;
+        padding: 25px 5px 0 0;
         margin: 0;
         float: right;
     }
@@ -515,7 +524,7 @@
     }
 
     .content {
-        width: 50%;
+        width: 100%;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -718,7 +727,6 @@
     }
     .footer-contact-us-btn {
         border: none;
-
         background-color: #33B558;
         border-radius: 5px;
         min-height: 40px;
