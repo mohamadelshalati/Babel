@@ -120,6 +120,7 @@
     }
 
     .globe {
+        visibility: visible;
         width: 50%;
         padding: 0%;
     }
@@ -752,11 +753,11 @@
     .social-wrapper i:hover {
         color: #8193B2;
     }
-
 }
 
 @media only screen and (max-width: 500px){
     .header-earth{
-        font-size: 12vw;   
+        /* font-size: 12vw; */
+        display: none;
     }
 }
