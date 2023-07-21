@@ -715,7 +715,7 @@
     }
 
     .footer-paragraph-wrapper a i {
-        font-size: 80px;
+        font-size: 15vw;
     }
 
     .footer-form-wrapper {
@@ -734,9 +734,9 @@
         font-size: 17px;
         margin-bottom: 20px;
     }
-    .footer-earth {
+    /* .footer-earth {
         display: none;
-    }
+    } */
     .footer-contact-us-btn:hover {
         background-color: #0a6b25;
     }
