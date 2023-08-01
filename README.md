@@ -1,5 +1,5 @@
 # Description
-Static website to get in touch with a translation service. Including a rotating earth.
+Static website to get in touch with a service. Including a rotating earth.
 
 
 # Babel Tools and technologies
